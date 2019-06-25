@@ -1,0 +1,9 @@
+{
+    "name": "mihael.lovrencic/release-it-test",
+    "description": "release-it-test",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^8.2"
+    },
+    "license": "GPLv3"
+}
