@@ -1,6 +1,7 @@
 {
   "npm" : false,
   "git": {
+    "origin": "master",
     "tagName": "v${version}"
   },
   "github": {
