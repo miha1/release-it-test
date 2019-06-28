@@ -1,3 +1,14 @@
+#  (2019-06-28)
+
+
+### fix
+
+* add new file ([732664b3be6c74819784bf614fc8c317de2a7de8](https://github.com/miha1/release-it-test/commit/732664b3be6c74819784bf614fc8c317de2a7de8))
+
+### patch
+
+* add new file2 ([137a40c420f6f3d6cd65dd0daf85773fead5a07a](https://github.com/miha1/release-it-test/commit/137a40c420f6f3d6cd65dd0daf85773fead5a07a))
+
 #  (2019-06-25)
 
 
