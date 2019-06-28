@@ -1,7 +1,5 @@
 {
-  "npm" : {
-    "release": false
-  },
+  "npm" : false,
   "git": {
     "tagName": "v${version}"
   },
