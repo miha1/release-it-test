@@ -2,7 +2,9 @@
   "npm" : false,
   "git": {
     "requireUpstream": false,
-    "tagName": "v${version}"
+    "tagName": "v${version}",
+    "tag": false,
+    "addUntrackedFiles": true
   },
   "github": {
     "release": true
