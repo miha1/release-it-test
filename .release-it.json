@@ -1,7 +1,7 @@
 {
   "npm" : false,
   "git": {
-    "origin": "master",
+    "requireUpstream": false,
     "tagName": "v${version}"
   },
   "github": {
