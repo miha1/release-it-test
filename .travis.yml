@@ -6,5 +6,6 @@ jobs:
     - stage: release
       deploy:
         provider: script
+        api_key: ea53abfb-d8a3-488e-9b6f-4125c062b663
         skip_cleanup: true
         script: bash bin/deploy.sh
