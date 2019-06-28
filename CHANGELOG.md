@@ -1,6 +1,13 @@
 #  (2019-06-28)
 
 
+### BREAKING
+
+* remove files ([20d2ac7cf2f5be54ac3ee27ce7d9f7cceb2bf4c3](https://github.com/miha1/release-it-test/commit/20d2ac7cf2f5be54ac3ee27ce7d9f7cceb2bf4c3))
+
+#  (2019-06-28)
+
+
 ### fix
 
 * add new file ([732664b3be6c74819784bf614fc8c317de2a7de8](https://github.com/miha1/release-it-test/commit/732664b3be6c74819784bf614fc8c317de2a7de8))
