@@ -6,7 +6,5 @@ jobs:
     - stage: release
       deploy:
         provider: script
-        email: mihael.lovrencic@wirecard.com
-        api_key: $NPM_TOKEN
         skip_cleanup: true
         script: bash bin/deploy.sh
