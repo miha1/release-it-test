@@ -1,7 +1,9 @@
 {
+  "npm" : {
+    "release": false
+  },
   "git": {
-    "requireUpstream": false,
-    "tagName": "Version: ${version}"
+    "tagName": "v${version}"
   },
   "github": {
     "release": true
