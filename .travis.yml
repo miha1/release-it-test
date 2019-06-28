@@ -5,8 +5,8 @@ jobs:
   include:
     - stage: release
       deploy:
-        provider: npm
+        provider: script
         email: mihael.lovrencic@wirecard.com
-        api_key: ea53abfb-d8a3-488e-9b6f-4125c062b663
+        api_key: $NPM_TOKEN
         skip_cleanup: true
-        after_deploy: bash bin/deploy.sh
+        script: bash bin/deploy.sh

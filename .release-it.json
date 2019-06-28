@@ -1,4 +1,7 @@
 {
+  "git": {
+    "tagName": "Version: ${version}"
+  },
   "github": {
     "release": true
   },
