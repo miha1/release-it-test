@@ -1,6 +1,7 @@
 {
   "npm" : false,
   "git": {
+    "requireCleanWorkingDir": false,
     "requireUpstream": false,
     "tagName": "v${version}",
     "tag": false,
