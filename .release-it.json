@@ -1,8 +1,6 @@
 {
   "npm" : false,
   "git": {
-    "username": "mihael.lovrencic@wirecard.com",
-    "password": "$GH_TOKEN",
     "requireUpstream": false,
     "tagName": "v${version}",
     "tag": false,
