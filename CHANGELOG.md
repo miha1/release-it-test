@@ -1,3 +1,5 @@
+# [2.0.0](https://github.com/miha1/release-it-test/compare/v2.0.2...v2.0.0) (2019-07-01)
+
 # [2.0.0](https://github.com/miha1/release-it-test/compare/v2.0.1...v2.0.0) (2019-07-01)
 
 
