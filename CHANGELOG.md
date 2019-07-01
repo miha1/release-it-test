@@ -1,3 +1,10 @@
+# [2.0.0](https://github.com/miha1/release-it-test/compare/v2.0.1...v2.0.0) (2019-07-01)
+
+
+### fix
+
+* verbose deploy 6 ([8877c85be7879682bf06c1cf950f4918cde372ec](https://github.com/miha1/release-it-test/commit/8877c85be7879682bf06c1cf950f4918cde372ec))
+
 
 
 #  (2019-06-28)
