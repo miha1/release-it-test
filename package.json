@@ -10,7 +10,7 @@
   "devDependencies": {
     "@release-it/bumper": "^1.0.3",
     "@release-it/conventional-changelog": "^1.1.0",
-    "release-it": "^12.3.0"
+    "release-it": "^15.6.0"
   },
   "scripts": {
     "test": "exit 0"
